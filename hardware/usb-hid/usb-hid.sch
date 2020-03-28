@@ -300,8 +300,6 @@ Wire Wire Line
 Wire Wire Line
 	2100 2250 2350 2250
 Wire Wire Line
-	3700 3300 4000 3300
-Wire Wire Line
 	6800 4700 7300 4700
 Wire Wire Line
 	7300 4700 7300 2850
@@ -454,4 +452,38 @@ Text Label 8100 1450 0    50   ~ 0
 Debug_TX
 Text Label 8100 1550 0    50   ~ 0
 Debug_RX
+Wire Wire Line
+	3700 3300 4800 3300
+Wire Wire Line
+	4800 3300 4800 4900
+Wire Wire Line
+	4800 4900 5500 4900
+Wire Wire Line
+	3700 3400 4700 3400
+Wire Wire Line
+	4700 3400 4700 4800
+Wire Wire Line
+	4700 4800 5500 4800
+Wire Wire Line
+	5500 4700 4600 4700
+Wire Wire Line
+	4600 4700 4600 3500
+Wire Wire Line
+	3700 3500 4600 3500
+Wire Wire Line
+	5500 4400 5100 4400
+Wire Wire Line
+	5500 4500 5100 4500
+Text Label 5100 4400 0    50   ~ 0
+Debug_TX
+Text Label 5100 4500 0    50   ~ 0
+Debug_RX
+Wire Wire Line
+	6800 4500 7250 4500
+Wire Wire Line
+	6800 4600 7250 4600
+Text Label 6900 4500 0    50   ~ 0
+USB_D-
+Text Label 6900 4600 0    50   ~ 0
+USB_D+
 $EndSCHEMATC
