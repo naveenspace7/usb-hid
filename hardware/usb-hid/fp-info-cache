@@ -1,4 +1,4 @@
-17563587091160436
+17566766580369436
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -41881,6 +41881,13 @@ usb A plug horizontal
 11
 10
 Connector_USB
+USB_A_2.3_2
+
+
+0
+6
+5
+Connector_USB
 USB_A_CNCTech_1001-011-01101_Horizontal
 USB type A Plug, Horizontal, http://cnctech.us/pdfs/1001-011-01101.pdf
 USB-A
@@ -41891,6 +41898,13 @@ Connector_USB
 USB_A_CONNFLY_DS1095-WNR0
 http://www.connfly.com/userfiles/image/UpLoadFile/File/2013/5/6/DS1095.pdf
 USB-A receptacle horizontal through-hole
+0
+6
+5
+Connector_USB
+USB_A_Mod
+
+
 0
 6
 5
