@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MCU_ST_STM32F1)(type Legacy)(uri ${KIPRJMOD}/MCU_ST_STM32F1.lib)(options "")(descr ""))
+  (lib (name RF)(type Legacy)(uri ${KIPRJMOD}/RF.lib)(options "")(descr ""))
+)

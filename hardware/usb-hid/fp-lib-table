@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name KiCadCustomLibs-master)(type KiCad)(uri /home/naveen/Documents/KiCad-Projects/footprints/KiCadCustomLibs-master.pretty)(options "")(descr ""))
+  (lib (name custom_lib)(type KiCad)(uri /home/naveen/Documents/KiCad-Projects/footprints/custom_lib.pretty)(options "")(descr ""))
+)
