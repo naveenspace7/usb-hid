@@ -1,4 +1,4 @@
-17751053472254679
+17755833713465004
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -1555,6 +1555,13 @@ Push Button
 4
 Button_Switch_THT
 SW_Aliexpress_1x2
+
+
+0
+5
+3
+Button_Switch_THT
+SW_Aliexpress_3pin
 
 
 0
@@ -78343,6 +78350,13 @@ wemos_D1_mini_board
 0
 16
 16
+mcu
+QFP50P900X900X160-48N
+
+
+0
+48
+48
 mysensors_radios
 NRF24L01
 NRF24L01
@@ -78359,6 +78373,13 @@ NRF24L01-SMD
 8
 mysensors_radios
 NRF24L01_PA_LNA-SMD
+
+
+0
+8
+8
+mysensors_radios
+NRF24L01_SMD_PinChange
 
 
 0
