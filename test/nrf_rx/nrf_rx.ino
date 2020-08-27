@@ -13,12 +13,12 @@
 
 RF24 radio(7, 8); // CE, CSN
 
-const byte address[6] = "00001";
+const byte address[6] = {0x11, 0x22, 0x33, 0x44, 0xAA};
 
 void setup() {
   Serial.begin(9600);
   radio.begin();
-  radio.openReadingPipe(0, address);
+  radio.openReadingPipe(0, 0x11223344AA);
   radio.setPALevel(RF24_PA_MIN);
   radio.startListening();
 }
